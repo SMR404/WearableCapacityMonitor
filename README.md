@@ -6,9 +6,7 @@ AR-15 Magazine Capacity Monitoring System (Proof of Concept)
 This is a proof of concept for a method to display the number of rounds in an AR-15's magazine on an Android device or Android-Wear device using bluetooth for data transfer from Raspberry Pi to android and using a modified version of Samy Kamkar's (@samyk) magspoof for data transfer between the magazine and raspberry pi.
 
 Check out my video for more information, explanations, and pictures/video.
-//////////////////////////////
 
-/////////////////////////////
 
 Flow of information
 --------------
@@ -26,10 +24,12 @@ Below is the flow of infomation from the magazine to the user.
 
 ↓         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
                 
+                
 **Android Wear or other android device**
 
 
 ↓         Data is displayed to user
-                
+  
+  
 Eyeballs (or similar)
-//  End //
+
