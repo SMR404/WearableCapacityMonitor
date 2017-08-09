@@ -19,7 +19,7 @@ Below is the flow of infomation from the magazine to the user.
 
 |<br>
 |<br>
-|      Data (ultra-low baud rate) is sent wirelessly from the magazine to the card reader via magspoof <br>
+|      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data (ultra-low baud rate) is sent wirelessly from the magazine to the card reader via magspoof <br>
 |<br>
 |<br>
 **↓**      
@@ -32,7 +32,7 @@ Below is the flow of infomation from the magazine to the user.
 
 |<br>
 |<br>
-|         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
+|    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
 <br>
 |<br>
 |<br>
@@ -44,7 +44,7 @@ Below is the flow of infomation from the magazine to the user.
 <br>
 | <br>
 |<br>
-|         Data is displayed to user
+|         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Data is displayed to user
 <br>
 |<br>
 **↓** <br>
