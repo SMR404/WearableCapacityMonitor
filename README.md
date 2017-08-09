@@ -39,7 +39,7 @@ Below is the flow of infomation from the magazine to the user.
 **↓**      
 <br>
 
-**Component: Android Wear or other android device**
+**Component: Android Wear or other android device (or similar)**
 <br>
 <br>
 | <br>
