@@ -14,7 +14,8 @@ The system is composed of several components and boards.
 Below is the flow of infomation from the magazine to the user.
 
 <br><br><br><br>
-**Magazine: Arduino Pro Mini (or similar) with a Magspoof magnetic Card emulator (magspoof)**
+**Component: 
+*Magazine: Arduino Pro Mini (or similar) with a Magspoof magnetic Card emulator (magspoof)
 <br>
 
 |<br>
@@ -26,26 +27,31 @@ Below is the flow of infomation from the magazine to the user.
 
 <br>
 
-**Magnetic Card Reader connected as a usb keyboard to the Raspberry-pi (or similar)**
+**Component:
+*Magnetic Card Reader connected as a usb keyboard to the Raspberry-pi (or similar)**
 
 <br>
 
 |<br>
 |<br>
 |         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
+<br>
 |<br>
 |<br>
 ↓      
 <br>
 
-**Android Wear or other android device**
+**Component:
+*Android Wear or other android device**
 <br>
 | <br>
 |<br>
 |         Data is displayed to user
+<br>
 |<br>
 ↓ <br>
 <br> 
   
-**Eyeballs (or similar)**
+**Component:
+*Eyeballs (or similar)**
 
