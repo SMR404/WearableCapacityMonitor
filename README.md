@@ -26,6 +26,8 @@ Below is the flow of infomation from the magazine to the user.
 
 <br>
 **Magnetic Card Reader connected as a usb keyboard to the Raspberry-pi (or similar)**
+<br>
+
 |<br>
 |<br>
 |         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
@@ -33,10 +35,13 @@ Below is the flow of infomation from the magazine to the user.
 |<br>
 ↓         
 **Android Wear or other android device**
-<br><br>
-
-↓         Data is displayed to user
-<br> <br>
+<br>
+| <br>
+|<br>
+|         Data is displayed to user
+|<br>
+↓ <br>
+<br> 
   
 **Eyeballs (or similar)**
 
