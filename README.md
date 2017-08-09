@@ -15,20 +15,19 @@ Below is the flow of infomation from the magazine to the user.
 
 <br><br><br><br>
 **Magazine: Arduino Pro Mini (or similar) with a Magspoof magnetic Card emulator (magspoof)**
-<br><br>
 |<br>
 |<br>
 |      Data (ultra-low baud rate) is sent wirelessly from the magazine to the card reader via magspoof <br>
 |<br>
 |<br>
-↓  
- <br>   <br>            
+↓        
 **Magnetic Card Reader connected as a usb keyboard to the Raspberry-pi (or similar)**
-<br><br>
-
-↓         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
-<br>    <br>            
-                
+|<br>
+|<br>
+|         Data is sanitized and sent over a bluetooth serial connection from the Raspberry-pi to android-wear or other
+|<br>
+|<br>
+↓         
 **Android Wear or other android device**
 <br><br>
 
