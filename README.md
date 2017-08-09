@@ -22,7 +22,7 @@ Below is the flow of infomation from the magazine to the user.
 |      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Data (ultra-low baud rate) is sent wirelessly from the magazine to the card reader via magspoof <br>
 |<br>
 |<br>
-**↓**      
+▼      
 
 <br>
 
@@ -36,7 +36,7 @@ Below is the flow of infomation from the magazine to the user.
 <br>
 |<br>
 |<br>
-**↓**      
+▼     
 <br>
 
 - **Component: Android Wear or other android device (or similar)**
@@ -47,7 +47,9 @@ Below is the flow of infomation from the magazine to the user.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|          Data is displayed to user
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**↓** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+▼ <br>
 <br> 
   
 - **Component: Eyeballs (or similar /s)**
