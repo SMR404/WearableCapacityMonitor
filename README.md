@@ -7,7 +7,7 @@ This is a proof of concept for a method to display the number of rounds in an AR
 
 **Check out my video for more information, explanations, and pictures/video.**
 
-Demonstration: https://vid.me/ff5at
+General Overview of project + Demonstration: https://vid.me/MMtok
 
 *Flow of information*
 --------------
