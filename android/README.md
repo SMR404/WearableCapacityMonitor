@@ -8,7 +8,7 @@ pretty much a vital feature that is missing from the app.
 Ideas for improvement (on android-wear):
 ----------------------------------
 - 1. The ability to swipe between several screens which would contain some of the below features
-- 2. Mac Address selection screen
+- 2. Bluetooth Address selection screen
 - 3. Day/Night mode (on an options screen)
 - 4. Power down option for rapsberry pi on options screen (requires alteration to the pi's python program)
 - 5. Move the connect/disconnect button to it's own screen and auto-navigate to the capacity value display screen on connection
