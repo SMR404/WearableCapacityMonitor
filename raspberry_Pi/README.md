@@ -10,7 +10,7 @@ the pi has booted to command line, the magentic card reader (which is a usb keyb
 has no interactive window to output to (input() and raw_input() throw an EOF error).
 
 This issue could possibly be solved if the two python programs were consolidated
-into one program by using multiprocessing, allowing the pi script to function properly
+into one program by using multiprocessing, and then monitoring usb input at a lower level (maybe using evdev or something similar?) allowing the pi script to function properly
 in CLI.
 
 
