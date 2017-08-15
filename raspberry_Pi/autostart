@@ -1,0 +1,19 @@
+@lxpanel --profile LXDE-pi
+@pcmanfm --desktop --profile LXDE-pi
+
+#@lxterminal
+#@lxterminal -e "bash -c 'sudo python /home/pi/magCapacityScripts/bluetoothSerialServer.py & sudo python /home/pi/magCapacityScripts/magStripeReaderInput.py ;exec $SHELL'"
+
+@xscreensaver -no-splash
+@point-rpi
+
+
+
+
+
+cd /home/pi/
+sudo ./launch.sh
+
+
+
+
