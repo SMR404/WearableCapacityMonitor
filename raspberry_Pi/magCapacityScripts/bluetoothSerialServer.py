@@ -8,9 +8,6 @@ from bluetooth import *
 localhost = '127.0.0.1'
 localport = 5000
 
-
-
-
 while True:
     counter = 0;
     badResponses = 0;
@@ -92,18 +89,6 @@ while True:
             except:
                 BTconnected = False
                 
-            
-                
-
-
-
-
-
-
-
-
-                
-
         except:
             pass
     local.close()
