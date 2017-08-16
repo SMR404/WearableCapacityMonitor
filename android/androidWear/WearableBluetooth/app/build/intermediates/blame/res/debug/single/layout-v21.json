@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\overlay_confirmation.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\layout-v21\\overlay_confirmation.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\accept_deny_dialog.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\layout-v21\\accept_deny_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\dismiss_overlay.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\layout-v21\\dismiss_overlay.xml"
+    }
+]

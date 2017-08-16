@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="COLD"
+    density="280dpi"
+    format="10"
+    plugin-version="2.3.3"
+    timestamp="1502383823005"
+    token="9062135729071311024"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="150" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="9" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+        type="SPLIT" />
+    <artifact
+        location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\outputs\apk\app-debug.apk"
+        type="SPLIT_MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1502383027973"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502383709838"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1502383823005"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+
+</instant-run>

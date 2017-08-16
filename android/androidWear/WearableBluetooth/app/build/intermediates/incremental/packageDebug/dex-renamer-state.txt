@@ -1,0 +1,7 @@
+#Thu Aug 10 11:37:11 GMT-05:00 2017
+base.0=C\:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_247ad7f7c4199fd019f623a62610cfffcc4c4b69
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22da8960cc98f35ef7836cff9f79c4cdee3985e3\\classes.dex
+base.1=C\:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_22da8960cc98f35ef7836cff9f79c4cdee3985e3
+file.0=C\:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_247ad7f7c4199fd019f623a62610cfffcc4c4b69\\classes.dex
