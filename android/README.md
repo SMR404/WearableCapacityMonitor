@@ -15,7 +15,9 @@ Ideas for improvement (on android-wear):
 Debugging over Bluetooth
 ----------------------
 If you don't know how to upload an app to an android wear device without a usb port (like the moto 360 sport), you should get familiar with bluetooth debugging.
+
 https://medium.com/@jcdelvalle/android-wear-bluetooth-debugging-quickly-guide-ef279b84169c
+
 Follow this guide and you should be able to upload the built apk to the watch.
 
 **Important Note:** If you can't get adb to recognize your phone, make sure that you have connected your phone as a camera device. If that doesn't work, then try all the other types of devices it can connect as.
