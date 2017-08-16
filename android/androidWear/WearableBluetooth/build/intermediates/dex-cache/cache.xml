@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b386ddb9bbf481ef1a6190d127a830ae013e0456\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_735cb120dba5600f7884c3f09321c4ee97746ee4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\43542746a488a9bcbb7f3186c9502f2e9debc227\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4d473ff6e9f5a5b6a53f62d80d11ebe2989cdca6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\06b90a119ae4b83fcf4725fa5125eaa1f9df8662\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3662906972fcf5bfc26670f5653d86382be9e5a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d083c78abd50ff94bf69f201a4aaf38af288319f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21b697323288506f0b113853a974936b78df8e68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1a866165d18f5fe79b5a5b72f804eb6b56863835\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_afb16431dc563121a6ba66a8910b4793c383dfd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\3da0b44863e67fb6c171636c57bb2a308d059ee5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="772144531b4b5b7bc2711332b7031b36a328a2b5">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_48aa5b4eeb17fb5c9068b95d3e2f374a3c58f5b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\189593d65b2365e2c880723a2ab7ec647a6425ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a109aa340ac8aae39e14e73537baf62b44810e3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\7a4fa394d63b4ce9bf21fad4e02d4a9cc9ac7ab7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ef6bdde2a53a2e2794bf10af01b6052647bd6f3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\40d58f04e2ff5abebcf184c3cbc5c1a675c51c4c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca741805824ba671a460b824bd782b01591f6f16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_247ad7f7c4199fd019f623a62610cfffcc4c4b69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1fc680c6c4af1eaa5bf40423a1aca5852d27fd01">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_22da8960cc98f35ef7836cff9f79c4cdee3985e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\SMR\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\SMR\Desktop\samples\WearableBluetooth\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_e0c50f021489b9d81fc21fac1ef9eddd8c4adb45\classes.dex" />
+    </item>
+
+</items>

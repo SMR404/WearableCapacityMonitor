@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Android\\.android\\build-cache\\5f5673a91a3d8e2aacbe6cf8f371d6830d80f2a8\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\card_text_color.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\color\\card_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Android\\.android\\build-cache\\5f5673a91a3d8e2aacbe6cf8f371d6830d80f2a8\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Android\\.android\\build-cache\\5f5673a91a3d8e2aacbe6cf8f371d6830d80f2a8\\output\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\circular_button.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\color\\circular_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\SMR\\Desktop\\samples\\WearableBluetooth\\app\\build\\intermediates\\res\\merged\\debug\\color\\card_grey_text_color.xml",
+        "source": "C:\\Android\\.android\\build-cache\\3da0b44863e67fb6c171636c57bb2a308d059ee5\\output\\res\\color\\card_grey_text_color.xml"
+    }
+]
