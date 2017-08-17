@@ -105,6 +105,16 @@ This issue could possibly be solved if the two python programs were consolidated
 into one program by using multiprocessing, and then monitoring usb input at a lower level (maybe using evdev or something similar?) allowing the pi script to function properly
 in CLI.
 
+Preparing the Pi
+--------------------------
+Make sure you are fully updated.
+Make sure that the proper bluetooth libraries are installed. Follow the first part of this guide I found to make sure you have the right stuff installed. 
+
+   `sudo apt-get dist-upgrade` <br>
+   `sudo apt-get update`<br>
+   `sudo apt-get upgrade`<br>
+   `sudo apt-get install bluez pi-bluetooth python-bluez`<br>
+
 
 How to get the script to run on boot
 -------------------------------------
