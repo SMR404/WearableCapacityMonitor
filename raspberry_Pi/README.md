@@ -14,6 +14,17 @@ into one program by using multiprocessing, and then monitoring usb input at a lo
 in CLI.
 
 
+Preparing the Pi
+--------------------------
+Make sure you are fully updated.
+Make sure that the proper bluetooth libraries are installed. Follow the first part of this guide I found to make sure you have the right stuff installed. 
+
+   `sudo apt-get dist-upgrade` <br>
+   `sudo apt-get update`<br>
+   `sudo apt-get upgrade`<br>
+   `sudo apt-get install bluez pi-bluetooth python-bluez`<br>
+
+
 How to get the script to run on boot
 -------------------------------------
 1. Make sure that the android device and the pi have been paired and trusted with one another (use Raspbian GUI or bluetooth-ctl).
