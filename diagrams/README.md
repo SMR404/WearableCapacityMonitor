@@ -55,3 +55,15 @@ Hopefully these diagrams, coupled with the videos and photos, are descriptive en
  
  <br>
  
+ - Bolts or Machine screws of approximate outer thread diameter of 0.3 mm (I don't know what I used, they were found leftovers)
+ 
+ <br>
+ 
+ - 3D printer and filament
+ 
+  <br>
+  <br>
+  <br>
+  
+ These are just the items that are attached to/used with the gun. There are lots of other logistical items like arduino programmer chips and other things that you will need for this, but they are intuitive and are closely associated with the use of the above items.
+ 
