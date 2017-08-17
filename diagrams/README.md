@@ -2,16 +2,26 @@
 
 Hopefully these diagrams, coupled with the videos and photos, are descriptive enough.
 
-## Bill of Materials:
-1.)
+## Items for purchase:
+- L293 Motor Driver https://www.amazon.com/NDRTJM-MSTL2930-L293D-Stepper-Driver/dp/B008XCGLNM
+
 <br>
-2.)
+
+- Raspberry Pi 3 or Raspberry Pi Zero W
+
 <br>
-3.)
+
+- Arduino Pro Mini or other Arduino
+
 <br>
-4.)
+
+Polymer Lower Receiver (like a New Frontier LW-15, https://newfrontierarmory.com/shop/lw-15-complete-polymer-lower-receiver/)
+
 <br>
-5.)
+
+
+
 <br>
+
 6.)
 
