@@ -1,9 +1,8 @@
 Solid Modeling Files
 ----------------
-
-I would recommend using the .STEP file as it is likely the most hassle free method of importing the assembly and is the only one that I can confirm imports without issues.
-
 Note that this assembly simply represents a proof of concept and has not been designed to fulfill any practical purpose.
+
+It seems that the Raspberry Pi model (and only that model) does not want to load properly when the STEP or IGES file is imported. If you want to place it into the assembly again, I have a folder with only that model in it here. I got it from https://grabcad.com/library/raspberry-pi-3-6
 
 I had to modify the lower receiver to fit the Qi Wireless Charging Ciruit and the Magnetic card reader in a semi-acceptable fashion.
 In this assembly, the lower receiver is a modified (read: has sections manually and physically cut away with a power tool) version of the New Frontier LW-15 Polymer Lower Receiver (https://newfrontierarmory.com/shop/lw-15-complete-polymer-lower-receiver/). 
