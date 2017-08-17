@@ -15,6 +15,10 @@ Hopefully these diagrams, coupled with the videos and photos, are descriptive en
 
 <br>
 
+- Android Wear device or other Android Device (with bluetooth)
+
+<br>
+
 - Polymer Lower Receiver (like a New Frontier LW-15, https://newfrontierarmory.com/shop/lw-15-complete-polymer-lower-receiver/)
 
 <br>
