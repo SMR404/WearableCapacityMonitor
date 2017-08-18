@@ -1,4 +1,6 @@
-
+This repo has the source code for an android-wear and regular android device app. It's more convenient to test and debug from a regular android device app in my experience.
+<br>
+<br>
 I ran out of time to really make a competent application for android (First time android developer, here).
 The current android-wear program has only been tested on my Moto 360 sport and has no menu to select the Bluetooth address of the raspberry pi
 to which it connects.
