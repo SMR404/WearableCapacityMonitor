@@ -9,6 +9,8 @@ This is a proof of concept for a method to display the number of rounds in an AR
 
 General Overview of project + Demonstration: https://vid.me/MMtok
 
+I'll try and get some new videos up discussing this idea and desired improvements in depth at a (hopefully soon) future date.
+
 ## *Flow of information*
 
 The system is composed of several components and boards.
