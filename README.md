@@ -57,7 +57,7 @@ Below is the flow of infomation from the magazine to the user.
 I ran out of time to really make a competent application for android (First time android developer, here).
 The current android-wear program has only been tested on my Moto 360 sport and has no menu to select the Bluetooth address of the raspberry pi
 to which it connects.
-This means that the mac address of the pi is hardcoded (gasp) into the program and **you need to change it and then build the .apk yourself**. This is pretty much a vital feature that is missing from the app.
+This means that the bluetooth address of the pi is hardcoded (gasp) into the program and **you need to change it and then build the .apk yourself**. This is pretty much a vital feature that is missing from the app.
 
 Ideas for improvement (on android-wear):
 ----------------------------------
